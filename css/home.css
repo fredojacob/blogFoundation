@@ -1,0 +1,27 @@
+*{
+	margin: 25px;
+}
+
+
+
+.cabecera{
+	background: url(../img/header.png) ;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-color: rgb(205,72,40);
+	margin-bottom: 0px;
+	height: 170px;
+	
+}
+
+.img-logo{ 
+
+	float:left;
+	margin-right: 60px;
+	width: 80px;
+ }
+
+ h2{
+ 	font-size: 10px;
+  }

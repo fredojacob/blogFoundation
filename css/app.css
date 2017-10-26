@@ -1,0 +1,41 @@
+  
+
+body{
+
+	  background: url(../img/fondo.jpg) ;
+	  background-repeat: no-repeat;
+	  background-position: center center;
+	  background-size: cover;
+}
+
+.fondo{
+
+ background: url(../img/banner.jpg) ;
+	  background-repeat: no-repeat;
+	  background-position: center center;
+	  background-size: cover;
+}
+.fondo3{
+	background-color: white;
+	  background: url(../img/fondo2.jpg) ;
+	  background-repeat: no-repeat;
+	  background-position: center center;
+	  background-size: cover;
+}
+
+
+h1{
+	font:40px;
+	color: white;
+}
+h2{
+	font-size: 35px;
+	color: black;
+}
+p{
+	color: black;
+}
+.centeer{
+	margin-left: 55px;
+	padding-right: 10px;
+}
